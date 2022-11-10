@@ -1,0 +1,60 @@
+body {
+  background-color: rgba(165, 206, 253, 0.301);
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 21px;
+}
+
+.container-fluid {
+  padding-right: 15px; /*15px in bootstrap.css*/
+  padding-left: 15px;  /*idem*/
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+#entete {
+border: 1px solid black;
+font-size: 1rem;
+border-bottom: none;
+
+}
+
+#navbar {
+  border: 1px solid black;
+  font-size: 1rem;
+  
+  }
+
+#bandeaugauche {
+  border: 1px solid black;
+  border-top: none;
+  background-color: rgb(253, 253, 150);
+}
+
+
+#nom {
+  font-size: x-large;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#photo {
+  background-image: url(sunny.png);
+  background-repeat: no-repeat;
+  background-position: center top;
+  padding-top: 2rem;
+  padding-left: 2rem;
+  min-height: 800px;
+  border: 1px solid black;
+  border-left: none;
+  border-top:none;
+  background-color: rgb(253, 253, 150);
+
+
+}
+
+
+#pied {
+  border: 1px solid black;
+  border-top: none; 
+}

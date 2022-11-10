@@ -1,0 +1,1 @@
+CV One Piece (18/10/2022) : Objectif de faire un CV (HTML/CSS/BOOTSTRAP). La page devait être responsive.
